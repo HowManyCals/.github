@@ -4,7 +4,7 @@
 > _"칼로리 일일이 검색하기가 힘들어요."_
 
 <p align="center">
-<img src="https://github.com/HowManyCals/.github/assets/" width="1000"/>
+<img src="https://raw.githubusercontent.com/HowManyCals/.github/refs/heads/main/assets/logo.png" width="1000"/>
 </p>
 
 작성 예정
